@@ -1,0 +1,2 @@
+C:\C++练习\7scanf\Debug\7scanf.exe
+C:\C++练习\7scanf\Debug\7scanf.pdb

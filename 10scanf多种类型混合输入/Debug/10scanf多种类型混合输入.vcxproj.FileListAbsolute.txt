@@ -1,0 +1,2 @@
+C:\C++练习\10scanf多种类型混合输入\Debug\10scanf多种类型混合输入.exe
+C:\C++练习\10scanf多种类型混合输入\Debug\10scanf多种类型混合输入.pdb

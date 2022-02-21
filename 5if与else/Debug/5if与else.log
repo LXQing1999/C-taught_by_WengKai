@@ -1,0 +1,3 @@
+﻿  5if与else.cpp
+C:\C++练习\5if与else\5if与else.cpp(6,17): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  5if与else.vcxproj -> C:\C++练习\5if与else\Debug\5if与else.exe

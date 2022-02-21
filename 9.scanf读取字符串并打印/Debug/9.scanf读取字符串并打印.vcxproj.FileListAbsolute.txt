@@ -1,0 +1,2 @@
+C:\C++练习\9.scanf读取字符串并打印\Debug\9.scanf读取字符串并打印.exe
+C:\C++练习\9.scanf读取字符串并打印\Debug\9.scanf读取字符串并打印.pdb

@@ -1,0 +1,10 @@
+﻿  1.柱形图打印.cpp
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(7,36): error C2440: “初始化”: 无法从“const char [4]”转换为“char *”
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(7,19): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(33,37): error C2065: “a”: 未声明的标识符
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(33,43): error C2065: “a”: 未声明的标识符
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(33,49): error C2065: “a”: 未声明的标识符
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(33,20): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(33,20): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(33,20): message : 缺失的可变参数 1 为格式字符串“%5d”所需
+C:\C++练习\1.柱形图打印\1.柱形图打印.cpp(10,12): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

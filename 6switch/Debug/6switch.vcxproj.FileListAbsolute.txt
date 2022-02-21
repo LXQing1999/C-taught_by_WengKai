@@ -1,0 +1,2 @@
+C:\C++练习\6switch\Debug\6switch.exe
+C:\C++练习\6switch\Debug\6switch.pdb

@@ -1,0 +1,3 @@
+﻿  7goto无条件转移语句.cpp
+C:\C++练习\7goto无条件转移语句\7goto无条件转移语句.cpp(6,6): warning C4102: “label”: 未引用的标签
+C:\C++练习\7goto无条件转移语句\7goto无条件转移语句.cpp(21,1): error C2065: “error”: 未声明的标识符
